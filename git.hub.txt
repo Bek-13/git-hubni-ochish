@@ -1,0 +1,6 @@
+1-papkani ichida git bushni ochamiz
+2-git hubni koputerimizni ulaymiz va git hubdagi kodni ko'chirib tashlaymiz
+3-"git add *" deb yozamiz 
+4-"git commit -m "hohlanga narsamizni yozamiz esda qoladigan"" degan kodni yozamiz
+5-"git push -u origin main" deb yozamiz va shu bilan kodimiz git hubga saqlanadi
+
